@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@theme {
+  --color-alabaster: #F9F9F7;
+  --color-sage: #8A9A5B;
+  --color-sage-light: #9BAB6C;
+  --color-sage-dark: #79894A;
+  --color-terracotta: #E2725B;
+  --color-terracotta-hover: #D1614A;
+  --color-charcoal: #2C3E50;
+
+  --font-sans: var(--font-lato), sans-serif;
+  --font-heading: var(--font-tenor), sans-serif;
+}
+
+/* Custom Utilities */
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+body {
+  background-color: var(--color-alabaster);
+  color: var(--color-charcoal);
+}
