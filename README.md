@@ -2,6 +2,8 @@
 
 A minimalist, high-performance yoga studio website built with Next.js 14, Tailwind CSS, and Framer Motion. This project demonstrates a "Japanese-Scandi" aesthetic with advanced responsive layouts and smooth animations.
 
+<img width="2835" height="1380" alt="image" src="https://github.com/user-attachments/assets/c409f347-311b-4470-b414-701765fe198b" />
+
 ## 🧘‍♀️ Project Overview
 
 The Zen Den is a portfolio piece designed to showcase:
